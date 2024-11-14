@@ -1,0 +1,8 @@
+2024-11-14 14:57:31,993 - INFO - Found 2 previously processed files
+2024-11-14 14:57:31,994 - INFO - Skipping talent.vn_chuyen-vien-dao-tao-noi-bo.txt (already processed)
+2024-11-14 14:57:31,994 - INFO - Skipping cloudoffice.com.vn_tin-tuc-su-kien_tuyen-dung-ben-ngoai-va-tuyen-dung-noi-bo-doanh-nghiep-nen-lua-chon-hinh-thuc-nao.txt (already processed)
+2024-11-14 14:57:31,994 - INFO - 
+Processing completed:
+2024-11-14 14:57:31,994 - INFO - Total files processed: 0
+2024-11-14 14:57:31,994 - INFO - Files skipped: 2
+2024-11-14 14:57:31,994 - INFO - Total samples generated: 0
